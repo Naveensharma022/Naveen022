@@ -11,6 +11,9 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 Talking about Personal Stuffs:
 🔭 I’m currently working on web.
+
 🚀   I’m currently learning Full Stack Development.
+
 💬   Ask me about anything here! I am happy to help.
+
 📫 How to reach me:- Linkedin: Naveen-kumar, Instagram: n.a.v.e.e.n.kumar
